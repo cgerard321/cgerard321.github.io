@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "date": "2022-07-29",
+    "title": "Kevin Hart: Reality Check",
+    "url": "https://www.hahaha.com/en/shows/kevin-hart-reality-check",
+    "color": "#FF6347",
+    "imageURL": "https://statique.festival-riremontreal.ca/sites/default/files/2022-04/JFM_KevinHart22_Concert_JFLweb_1296x443.png"
+  },
+  {
+    "id": "2",
+    "date": "2022-11-22",
+    "title": "Stromae",
+    "url": "https://www.evenko.ca/en/events/44129/stromae/bell-centre/11-26-2022",
+    "color": "#3498DB",
+    "imageURL": "https://www.evenko.ca/_uploads/event/44129/splash.jpg"
+  },
+  {
+    "id": "3",
+    "date": "2022-07-07",
+    "title": "Montreal Streetfood Festival",
+    "url": "https://www.oldportofmontreal.com/event/montreal-streetfood-festival",
+    "color": "#3498DB",
+    "imageURL": "https://media.restomontreal.ca/events/408_2022-05-26-5991_event.jpg"
+  },
+  {
+    "id": "4",
+    "date": "2022-10-31",
+    "title": "Halloween",
+    "url": "",
+    "color": "#212F3D",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShT1qdkvRZohjicI0MTRC2ttROv-QTjT9xug&usqp=CAU"
+  }
+]
